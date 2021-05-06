@@ -7,6 +7,10 @@ The Book
 
 https://1lib.net/book/2378499/686d64
 
+A Gramma Summary
+
+https://github.com/Harukoyh/Python-Basic-Grammar
+
 ====================================================================
 
 2, Java 
