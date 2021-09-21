@@ -3,13 +3,17 @@ Basic Java &amp; Python Programming
 
 1, Python
 
-The Book 
+Introduction Book 
 
 https://1lib.net/book/2378499/686d64
 
-A Gramma Summary
+Medium level Book 
 
-https://github.com/Harukoyh/Python-Basic-Grammar
+http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-Cookbook-3rd-Edition.pdf
+
+Exercise website 
+
+https://www.w3resource.com/python-exercises/
 
 ====================================================================
 
@@ -19,7 +23,7 @@ The Book
 
 https://1lib.net/book/899239/a0858f
 
-The Crouse Video
+Crush Course
 
 https://www.bilibili.com/video/BV12J41137hu?p=80
 
