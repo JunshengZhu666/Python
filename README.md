@@ -1,4 +1,4 @@
-# Basic-Java-Python
+# Python
 Basic Java &amp; Python Programming 
 
 1, Python
