@@ -15,6 +15,12 @@ Exercise website
 
 https://www.w3resource.com/python-exercises/
 
+Cheat Sheet
+
+https://github.com/wilfredinni/python-cheatsheet/blob/master/README.md
+
+https://github.com/FavioVazquez/ds-cheatsheets#python
+
 ====================================================================
 
 2, Java 
